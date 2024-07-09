@@ -1,0 +1,8 @@
+venv/**
+
+*.parquet
+*.pkl
+
+.DS_Store
+
+hf_tokens.txt
